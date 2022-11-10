@@ -1,0 +1,15 @@
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.csproj.AssemblyReference.cache
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.AssemblyInfoInputs.cache
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.AssemblyInfo.cs
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.csproj.CoreCompileInputs.cache
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\bin\Debug\net7.0\Lucian's Luscious Lasagna.exe
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\bin\Debug\net7.0\Lucian's Luscious Lasagna.deps.json
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\bin\Debug\net7.0\Lucian's Luscious Lasagna.runtimeconfig.json
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\bin\Debug\net7.0\Lucian's Luscious Lasagna.dll
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\bin\Debug\net7.0\Lucian's Luscious Lasagna.pdb
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.dll
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\refint\Lucian's Luscious Lasagna.dll
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.pdb
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\Lucian's Luscious Lasagna.genruntimeconfig.cache
+C:\Users\Igorb\Documents\DevProjects\Lucian's Luscious Lasagna\obj\Debug\net7.0\ref\Lucian's Luscious Lasagna.dll
